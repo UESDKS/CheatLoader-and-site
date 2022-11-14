@@ -1,0 +1,1 @@
+<?php return header('Location: page/auth.php');
